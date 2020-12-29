@@ -1,0 +1,4 @@
+print("Welcome to the Band Generator!:) \n If you want to find a name for your group, answer questions bellow:")
+name=input("What is your mother's name?\n")
+surname=input("what is the city you love?\n")
+print("Band name can be: "+ name+" "+surname)
